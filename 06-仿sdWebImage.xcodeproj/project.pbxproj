@@ -58,6 +58,7 @@
 		2F1279651D5F269D00F78CA9 /* 06-仿sdWebImage */ = {
 			isa = PBXGroup;
 			children = (
+				2F12797D1D5F281100F78CA9 /* NBWebImage */,
 				2F1279691D5F269D00F78CA9 /* AppDelegate.h */,
 				2F12796A1D5F269D00F78CA9 /* AppDelegate.m */,
 				2F12796C1D5F269D00F78CA9 /* ViewController.h */,
@@ -77,6 +78,13 @@
 				2F1279671D5F269D00F78CA9 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2F12797D1D5F281100F78CA9 /* NBWebImage */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = NBWebImage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,6 +307,7 @@
 				2F12797C1D5F269D00F78CA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
